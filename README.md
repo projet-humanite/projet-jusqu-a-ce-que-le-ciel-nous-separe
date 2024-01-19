@@ -20,7 +20,7 @@
 ## Synopsis
 
 Taïma est une survivante de l'ancienne civilisation martienne, effondrée et au bord de l'extinction. Sa rencontre
-avec l'<a href="https://github.com/projet-humanite/encyclopedie/blob/main/dictionnaire/concepts/esprit.md">Esprit</a>
+avec l'[Esprit](https://github.com/projet-humanite/encyclopedie/blob/main/dictionnaire/concepts/esprit.md),
 lui permet de trouver le salut, pour elle et les siens.
 
 Fascinée par le passé de son espèce, elle apprend de l'Esprit que l'univers, ayant dépassé sa demi-vie, est condamné
