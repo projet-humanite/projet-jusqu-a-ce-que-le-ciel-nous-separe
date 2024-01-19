@@ -34,7 +34,7 @@ génération d'humains, avec le but de vivre la vie humaine ultime.
 Ce système, une fois Taïma partie, doit s'activer exactement 61 années standards avant la fin programmée du monde.
 Cette ultime humanité, les Gaiens, se verra alors offrir la vie la plus épanouïe, fruit des recherches et découvertes
 de toutes les civilisations absorbées par l'Esprit. Ils pourront choisir, au terme de 60 ans, entre mourir avec 
-l'univers. ou rejoindre l'Esprit.
+l'univers, ou rejoindre l'Esprit.
 
 L'histoire suit le clone génétique de Taïma parmi les Gaïens, jusqu'à ce que sonne l'heure de leur ultime choix.
 
